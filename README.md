@@ -1414,7 +1414,3 @@ The final validation history includes the full regression suite and hostile audi
 - database indexing/scaling
 
 ---
-
-# License
-
-Add the license appropriate for the intended submission or distribution before publishing this repository.
